@@ -1,4 +1,4 @@
-<img src="mubeen.jpg" width="800">
+<img src="mubeen.jpg" width="900">
 
 ### Hi there 👋
 I'm Mubeen Naeem | DataBase || SQL Development || Oracle Database || Operating Systems || Data Structure and Algorithm||  and always willing to learn and work across new technologies and domains. <br/> <br/>
