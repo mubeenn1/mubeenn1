@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fpt%2Fsearch%2Fimages%3Fk%3Dcoder%2520girl&psig=AOvVaw1xBM32qB_O5yuierhFpTVS&ust=1673435431311000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCPifjPruvPwCFQAAAAAdAAAAABAI" width = "300">
+<img src="mubeen.jpg" width="400">
 
 ### Hi there 👋
 I'm Mubeen Naeem | DataBase || SQL Development || Oracle Database || Operating Systems || Data Structure and Algorithm||  and always willing to learn and work across new technologies and domains. <br/> <br/>
